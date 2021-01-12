@@ -1,0 +1,1 @@
+First attempt at translating an old Ruby program into JavaScript!
